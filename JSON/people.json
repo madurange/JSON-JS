@@ -1,0 +1,24 @@
+{
+	"people" : [
+		{
+			"name": "Pasindu",
+			"age":20
+		},
+		{
+			"name": "ABS",
+			"age":19
+		},
+		{
+			"name": "Pasan",
+			"age":22
+		},
+		{
+			"name": "Nuwan",
+			"age":24
+		},
+		{
+			"name": "Manoj",
+			"age":13
+		}
+	]
+}
